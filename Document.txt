@@ -2,3 +2,4 @@ docker-loging-elk : Chạy với ứng dựng Springboot ở URL github (https:/
 Visual log bằng elactiseach-logtash-kibana
 
 kafka-elk Chạy theo hướng dẫn Readme, gửi log lên kaffka và kaffka consumer bản tin , ghi log
+jdhfbvldsjfb
